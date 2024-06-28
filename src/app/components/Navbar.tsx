@@ -9,7 +9,7 @@ import {
   Button,
 } from "@mui/material";
 
-const navItems = ["login", "sign up"];
+const navItems = ["giriş", "kayit ol"];
 
 function ResponsiveAppBar() {
   const [anchorElNav, setAnchorElNav] = React.useState<null | HTMLElement>(

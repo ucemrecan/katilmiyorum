@@ -13,7 +13,7 @@ export default function Home() {
             letterSpacing: ".3rem",
           }}
         >
-          bir seylere katilmayanlarin ortak noktasi
+          Neque porro quisquam est qui dolorem ipsum
         </Typography>
         <Typography
           variant="body1"
@@ -23,9 +23,10 @@ export default function Home() {
             letterSpacing: ".1rem",
           }}
         >
-          İnsanlar genellikle ikiye bölünmeye meyillidirler; kahve mi çay mı,
-          yaz mı kış mı, deniz mi dağ mı, pepsi mi kola mı, Windows mu Mac mi,
-          Android mi iOS mu... benzer bir karar sürecine hoş geldiniz.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sapien
+          elit, varius in bibendum non, tempus non eros. Interdum et malesuada
+          fames ac ante ipsum primis in faucibus. Proin efficitur luctus turpis
+          ut fermentum. Phasellus faucibus lobortis semper.
         </Typography>
       </Box>
       <FullWidthTabs />

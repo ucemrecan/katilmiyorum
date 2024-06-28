@@ -1,6 +1,6 @@
 ## Description
 
-'katilmiyorum' is a free and open platform where users can express their opinions on various topics and engage in discussions to share their views and perspectives. The purpose of Opinion Platform is to provide a space where users can freely express their opinions on any subject matter. Whether it's about politics, technology, sports, or entertainment, users can share their thoughts and engage in meaningful discussions with others. The platform aims to foster a diverse and inclusive community where different viewpoints are respected and valued.
+katilmiyorum is a free and open platform where users can express their opinions on various topics and engage in discussions to share their views and perspectives. The purpose of Opinion Platform is to provide a space where users can freely express their opinions on any subject matter. Whether it's about politics, technology, sports, or entertainment, users can share their thoughts and engage in meaningful discussions with others. The platform aims to foster a diverse and inclusive community where different viewpoints are respected and valued.
 
 ## Technologies Used
 
@@ -23,7 +23,3 @@ To get started with Opinion Platform, follow these steps:
 ## Contribution
 
 Contributions to Opinion Platform are welcome! Whether it's bug fixes, feature enhancements, or documentation improvements, feel free to contribute to the project.
-
-## License
-
-Opinion Platform is licensed under the [MIT License](LICENSE).
